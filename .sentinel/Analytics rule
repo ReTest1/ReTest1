@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2021-10-01-preview",
             "properties": {
-                "displayName": "Conditional Access - A Conditional Access app exclusion has changed",
+                "displayName": "Github Test rule Conditional Access - A Conditional Access app exclusion has changed",
                 "description": "A Conditional Access app exclusion has changed in Azure AD.",
                 "severity": "Low",
                 "enabled": true,
